@@ -15,7 +15,7 @@ I am a degree student currently study in University Technology Malaysia. I am in
     - Foundation, UTM Space, Johor, Malaysia [2022-2023]
     - Bachelor of Computer Science (Software Engineering), University Technology Malaysia, Johor, Malaysia [2023- ]
 * 🎖️  Certificates:
-    - [Japanese-Language Proficiency Test (JLPT) N2](https://drive.google.com/file/d/1sZvuK51cI6LS1E9YOh93nZ6_1lk8JSsr/view?usp=sharing)
+    - [Japanese-Language Proficiency Test (JLPT) N2]()
 * ⚡  Love JAPAN 
 
 ### Skills
@@ -30,7 +30,7 @@ I am a degree student currently study in University Technology Malaysia. I am in
 
 ### Courses
 
-[<img width="100" height="100" src="https://www.biia.com/wp-content/uploads/2015/04/Information-Technology-300.jpg">](https://drive.google.com/file/d/1sZvuK51cI6LS1E9YOh93nZ6_1lk8JSsr/view?usp=sharing)  <a href="https://github.com/jun9187/TIS" style="font-color=black">Technology and Information System</a>
+[<img width="100" height="100" src="https://www.biia.com/wp-content/uploads/2015/04/Information-Technology-300.jpg">](https://github.com/jun9187/TIS)  [Technology and Information System](https://github.com/jun9187/TIS)
 
 ### Badges
 
