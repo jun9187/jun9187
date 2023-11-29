@@ -8,8 +8,15 @@ I am a degree student currently study in University Technology Malaysia. I am in
 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [jun00@graduate.utm.my](mailto:jun00@graduate.utm.my)
-* 🧠  I'm learning Computer Science (Software Engineering)
-* ⚡  Love JAPAN
+* 🧠  I'm taking programme: Bachelor of Computer Science (Software Engineering)
+* 📚  I studied at:
+    - SJKC Kulai Besar, Johor, Malaysia [2007-2012]
+    - Foon Yew High School(Kulai), Johor, Malaysia [2013-2018]
+    - Foundation, UTM Space, Johor, Malaysia [2022-2023]
+    - Bachelor of Computer Science (Software Engineering), University Technology Malaysia, Johor, Malaysia [2023- ]
+* 🎖️  Certificates:
+    - [Japanese-Language Proficiency Test (JLPT) N2](https://drive.google.com/file/d/1sZvuK51cI6LS1E9YOh93nZ6_1lk8JSsr/view?usp=sharing)
+* ⚡  Love JAPAN 
 
 ### Skills
 
@@ -20,6 +27,10 @@ I am a degree student currently study in University Technology Malaysia. I am in
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/spaghetass" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/C8763oooooh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/jun9187" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/ben340970" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+
+### Courses
+
+[<img width="100" height="100" src="https://www.biia.com/wp-content/uploads/2015/04/Information-Technology-300.jpg">](https://drive.google.com/file/d/1sZvuK51cI6LS1E9YOh93nZ6_1lk8JSsr/view?usp=sharing)  <a href="https://github.com/jun9187/TIS" style="font-color=black">Technology and Information System</a>
 
 ### Badges
 
