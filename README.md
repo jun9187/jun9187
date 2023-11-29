@@ -12,9 +12,14 @@ I am a degree student currently study in University Technology Malaysia. I am in
 * 📚  I studied at:
     - SJKC Kulai Besar, Johor, Malaysia [2007-2012]
     - Foon Yew High School(Kulai), Johor, Malaysia [2013-2018]
-    - Foundation, UTM Space, Johor, Malaysia [2022-2023]
-    - Bachelor of Computer Science (Software Engineering), University Technology Malaysia, Johor, Malaysia [2023- ]
-* 🎖️  Certificates:
+    - UTM Space, Johor, Malaysia [2022-2023]
+    - University Technology Malaysia, Johor, Malaysia [2023- ]
+* 📜  Certificates:
+    - UPSR (Ujian Pencapaian Sekolah Rendah)
+    - [SPM (Sijil Pelajaran Malaysia)](https://drive.google.com/file/d/1HmElE_pgkAbhotiY3kLWkcpgPPO8XbmL/view?usp=sharing)
+    - [UEC (United Examination Certificate](https://drive.google.com/file/d/1HMrN87paM3VQF9yL88sgZq94ljGgCrXO/view?usp=sharing)
+    - Foundation Programme, UTMSpace
+* 🎖️  Awards:
     - [Japanese-Language Proficiency Test (JLPT) N2]()
 * ⚡  Love JAPAN 
 
