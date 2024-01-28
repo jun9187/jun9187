@@ -20,7 +20,7 @@ I am a degree student currently study in University Technology Malaysia. I am in
     - [UEC (United Examination Certificate](https://drive.google.com/file/d/1HMrN87paM3VQF9yL88sgZq94ljGgCrXO/view?usp=sharing)
     - Foundation Programme, UTMSpace
 * 🎖️  Awards:
-    - [Japanese-Language Proficiency Test (JLPT) N2]()
+    - Japanese-Language Proficiency Test (JLPT) N2
 * ⚡  Love JAPAN 
 
 ### Skills
